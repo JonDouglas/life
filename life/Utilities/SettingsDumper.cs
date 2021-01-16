@@ -2,7 +2,7 @@
 using Spectre.Console;
 using Spectre.Console.Cli;
 
-namespace life.Utilities
+namespace Life.Utilities
 {
     public static class SettingsDumper
     {
